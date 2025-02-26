@@ -2,7 +2,7 @@ import {
     AnimatedSpan,
     Terminal,
     TypingAnimation,
-  } from "../../components/magicui/terminal";
+  } from "@/components/magicui/terminal";
   
   export function TerminalLoginPage() {
     return (

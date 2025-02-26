@@ -1,7 +1,9 @@
-import { TerminalLoginPage } from "@/components/loginPage/Terminal";
+import { ScrollBasedVelocityLandingPage } from "@/components/landingPage/ScrollBasedVelocity";
 
 export default function Home() {
-  return (
-    <TerminalLoginPage />
-  );
+  return 
+  <>
+  <div>Home</div>
+  <ScrollBasedVelocityLandingPage />
+  </>
 }
