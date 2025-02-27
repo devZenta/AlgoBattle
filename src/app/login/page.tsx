@@ -1,9 +1,10 @@
-import { GalleryVerticalEnd } from "lucide-react"
-
-import { LoginForm } from "@/components/loginPage/login-form"
+import { LoginForm } from "@/components/loginPage/LoginForm"
 
 export default function LoginPage() {
   return (
-    <button>Test</button>
+    <div>
+      <h1>Login</h1>
+      <LoginForm />
+    </div>
   )
 }
