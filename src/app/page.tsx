@@ -1,6 +1,6 @@
 import { ScrollBasedVelocityLandingPage } from "@/components/landingPage/ScrollBasedVelocity";
 
-export default function Home() {
+export default function LandingPage() {
   return (
     <ScrollBasedVelocityLandingPage />
   )
